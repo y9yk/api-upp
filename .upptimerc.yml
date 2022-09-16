@@ -14,7 +14,7 @@ sites:
 
 status-website:
   # cname: api-status.bereview.co.kr
-  baseUrl: /api-upp
+  # baseUrl: /api-upp
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: BEREVIEW API Uptime
   introTitle: "BEREVIEW API Uptime"
